@@ -4,9 +4,9 @@ A Java-based Library Management System enabling book addition, borrowing, return
 <h3 align="center">🎮 Output Screenshots</h3>
 
 <p align="center">
-  <img src="./Output1.png" width="200" alt="Start Screen"/>
-  <img src="./Output2.png" width="200" alt="Start Screen"/>
-  <img src="./Output3.png" width="200" alt="Player Move"/>
-  <img src="./Output4.png" width="200" alt="Computer Move"/>
-  <img src="./Output5.png" width="200" alt="Game Over"/>
+  <img src="Output1.png" width="300" height="200">
+  <img src="Output2.png" width="300" height="200">
+  <img src="Output3.png" width="300" height="200">
+  <img src="Output4.png" width="300" height="200">
+  <img src="Output5.png" width="300" height="200">
 </p>
